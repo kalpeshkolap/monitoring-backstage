@@ -43,8 +43,7 @@ spec:
           ui:field: RepoUrlPicker
           ui:options:
             allowedHosts:
-              - github.com/kalpeshkolap
-              - github.com/priyanshuDevT
+              - github.com
   steps:
     - id: template
       name: Fetch Skeleton + Template
